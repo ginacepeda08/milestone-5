@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "What makes a perfect beach day?",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Using 2021–2023 daytime weather observations (9 AM–5 PM) from NOAA’s National Centers for Environmental Information for Sarasota-Bradenton, FL, we count an hour as beach-friendly when temperatures are comfortable (75–90°F), there is no rain, winds are mild (\\(\\le\\) 15 mph), and skies are at least partly sunny."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "What makes a perfect beach day?",
     "section": "",
     "text": "About this site"
   }
